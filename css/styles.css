@@ -10897,6 +10897,7 @@ p {
 #mainNav .navbar-nav .nav-item .nav-link {
   color: rgba(255, 255, 255, 1);
   font-weight: 800;
+  font-family: 'Imbue', serif;
 }
 #mainNav .navbar-nav .nav-item.active .nav-link {
   color: #e6a756;
