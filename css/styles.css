@@ -10997,7 +10997,8 @@ p {
   .product-item .product-item-img {
     position: relative;
     z-index: 0;
-    max-width: 60vw;
+    max-width: 40%;
+    max-height: 40%;
   }
   .product-item .product-item-description {
     position: relative;
